@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyMessengerTests", "..\TinyMessenger\TinyMessengerTests\TinyMessengerTests.csproj", "{727DF21F-B30A-0FE3-A69C-6769C0F67CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyMessenger", "..\TinyMessenger\TinyMessenger\TinyMessenger.csproj", "{C6658C6D-DC27-6AC4-9AF1-93FE5A65204B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727DF21F-B30A-0FE3-A69C-6769C0F67CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727DF21F-B30A-0FE3-A69C-6769C0F67CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727DF21F-B30A-0FE3-A69C-6769C0F67CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727DF21F-B30A-0FE3-A69C-6769C0F67CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6658C6D-DC27-6AC4-9AF1-93FE5A65204B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6658C6D-DC27-6AC4-9AF1-93FE5A65204B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6658C6D-DC27-6AC4-9AF1-93FE5A65204B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6658C6D-DC27-6AC4-9AF1-93FE5A65204B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB86FBD-B99A-469A-A038-5D0ED0E5EC99}
+	EndGlobalSection
+EndGlobal
